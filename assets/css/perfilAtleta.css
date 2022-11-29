@@ -1,0 +1,84 @@
+.perfilAtleta1 {
+    height: 380px;
+    width: 280px;
+    position: relative;
+}
+
+.profile-user-img {
+    width: 70%;
+    position: relative;
+}
+
+.profile-user-img1 {
+    /* width: 50%; */
+    border: 3px solid #adb5bd;
+    margin: 0 auto;
+    padding: 3px;
+    width: 100px;
+}
+
+#text-center5 {
+    position: relative;
+}
+
+
+/* .table td,
+.table th {
+    padding: .75rem;
+} */
+
+.cardimgtop {
+    position: absolute;
+    height: 90%;
+    width: 90%;
+    top: 12px;
+    left: 169px;
+    transform: translate(-50%, -50%);
+    border: 3px solid #adb5bd;
+    padding: 4px;
+}
+
+.status_inf1 {
+    height: 30px;
+    width: 100px;
+    background-color: #28a745;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    position: absolute;
+    bottom: 21px;
+    right: 12px;
+    left: 178.25px;
+    border-radius: 4px;
+}
+
+.status_inf {
+    height: 30px;
+    width: 100px;
+    background-color: #ff5b57;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    position: absolute;
+    bottom: 58px;
+    right: 18px;
+    border-radius: 4px;
+}
+
+.perfilAtleta1 span {
+    position: absolute;
+    bottom: 0px;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 2%;
+}
+
+.opcoesDocumentos {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}

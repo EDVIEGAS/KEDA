@@ -1,0 +1,19 @@
+.cardAtleta12{
+    /* height:auto;
+    width:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+.fotoPerfil12 img {
+    margin: 8px;
+    /* min-width: 200px; */
+    min-height: 300px;
+    max-width: 300px;
+}
+
+th {
+    height: 50px;
+    /* background-color: #a0a0a0; */
+  }
